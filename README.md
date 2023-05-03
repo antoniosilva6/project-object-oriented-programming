@@ -1,4 +1,4 @@
-# project-object-oriented-programming
+# Projeto Programação com Objetos
 
 O objectivo do projecto é desenvolver uma aplicação que irá funcionar como o gestor de uma rede de terminais de comunicação, denominado por prr. 
 Genericamente, o programa devera permitir a gestão e consulta de clientes, terminais e comunicações.
