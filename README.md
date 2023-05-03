@@ -5,3 +5,5 @@ Genericamente, o programa devera permitir a gestão e consulta de clientes, term
 Especificamente, o sistema disponibiliza varios serviços aos seus utilizadores, entre outros: (i) registar dados sobre os clientes;
 (ii) registar dados sobre os terminais; (iii) registar dados sobre comunicac¸oes efectuadas; (iv) fazer pesquisas sobre comunicações
 efectuadas; e (v) contabilizar o saldo associado a terminais.
+
+Ver o documento PDF para mais informações.
